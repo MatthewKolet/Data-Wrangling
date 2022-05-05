@@ -8,7 +8,7 @@ This project was completed to showcase my data collection, integration, and anal
 ### Prerequisites
 The project was completed using RStudio and the RSocrata API, so users must have RStudio installed and an RSocrata account to access their API. RSocrata is an API that can be installed and uploaded into RStudio to upload data files from the API's library. 
 
-This repository contains the R Scripts used to collect and analyze the data, as well as the Micrsoft Excel file used as the other web source for our data.
+This repository contains the R Scripts used to collect and analyze the data, as well as the Micrsoft Excel file that was used as the other web source for our data.
 
 ### Steps to run the code
 1. Download the R Script files and the Microsoft Excel file in the repository.
